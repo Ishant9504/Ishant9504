@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ishant Mittal</h1>
-<h3 align="center">A CS Major</h3>
+
+<h1 align="center">A CS Major</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishant9504&label=Profile%20views&color=0e75b6&style=flat" alt="ishant9504" /> </p>
 
